@@ -1,0 +1,142 @@
+{
+  "symbol": "KMI",
+  "generated_at": "2026-07-18T23:35:50.625953Z",
+  "quote": {
+    "symbol": "KMI",
+    "last": 32.32,
+    "bid": 32.31,
+    "ask": 32.74,
+    "open": 32.92,
+    "high": 32.965,
+    "low": 32.13,
+    "close_prior": 32.3,
+    "change_pct": 0.0,
+    "volume": 8516771,
+    "high_52wk": 34.805,
+    "low_52wk": 25.6,
+    "description": "KINDER MORGAN INC DE"
+  },
+  "fundamentals": {
+    "pe_ratio": 21.94083,
+    "eps": 1.36752,
+    "div_yield": 3.65704,
+    "div_amount": 1.19,
+    "div_ex_date": "2026-05-04",
+    "shares_out": 2224825757,
+    "market_cap": null,
+    "avg_volume_10d": 8765770.0,
+    "last_earnings": "2026-04-22"
+  },
+  "technical": {
+    "sma_8": 32.3525,
+    "sma_20": 32.3095,
+    "sma_50": 32.2266,
+    "sma_200": null,
+    "above_20": true,
+    "above_50": true,
+    "regime_score": 15,
+    "regime_label": "neutral-bullish",
+    "atr_14": 0.676614285714286,
+    "range_position_pct": 57.63747454175131
+  },
+  "levels": [
+    {
+      "price": 29.45,
+      "kind": "support",
+      "strength": 1
+    },
+    {
+      "price": 30.7507,
+      "kind": "support",
+      "strength": 8
+    },
+    {
+      "price": 32.2415,
+      "kind": "support",
+      "strength": 10
+    },
+    {
+      "price": 33.4417,
+      "kind": "resistance",
+      "strength": 5
+    },
+    {
+      "price": 34.5903,
+      "kind": "resistance",
+      "strength": 3
+    }
+  ],
+  "options": {
+    "expiry": "2026-08-14",
+    "dte": 27,
+    "atm_iv": 24.403,
+    "implied_move": 2.14,
+    "put_oi_cluster": 20.0,
+    "call_oi_cluster": 34.0,
+    "put_wall": 20.0,
+    "call_wall": 34.0
+  },
+  "news": [
+    {
+      "title": "Kinder Morgan (KMI) Gains Attention Before Q2 Earnings, Is The Stock Fully Valued? - Yahoo Finance",
+      "published": "2026-07-17T11:13:10Z",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "BMO Capital Sticks to Their Buy Rating for Kinder Morgan (KMI) - The Globe and Mail",
+      "published": "2026-07-18T12:18:00Z",
+      "source": "The Globe and Mail"
+    },
+    {
+      "title": "48,564 Shares in Kinder Morgan, Inc. $KMI Bought by Dorsey Wright & Associates - MarketBeat",
+      "published": "2026-07-18T08:53:12Z",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Kinder Morgan (KMI) Could Be 9% Undervalued Before Its Q2 Earnings Report - simplywall.st",
+      "published": "2026-07-16T09:03:49Z",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Earnings Preview: KMI to Report Financial Results Post-market on July 22 - Moomoo",
+      "published": "2026-07-17T16:11:13Z",
+      "source": "Moomoo"
+    },
+    {
+      "title": "Kinder Morgan (KMI) Investor presentation Summary - Quartr",
+      "published": "2026-07-12T19:02:44Z",
+      "source": "Quartr"
+    },
+    {
+      "title": "Orbital “tow truck” could tackle space debris problem - EurekAlert!",
+      "published": "2026-07-16T20:07:03Z",
+      "source": "EurekAlert!"
+    },
+    {
+      "title": "Kinder Morgan (KMI) Advances While Market Declines: Some Information for Investors - Yahoo Finance",
+      "published": "2026-07-16T22:00:05Z",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Kinder Morgan, Inc. $KMI Shares Acquired by Bank of New York Mellon Corp - MarketBeat",
+      "published": "2026-07-18T07:54:51Z",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Kinder Morgan (KMI) Q2 2025 earnings summary - Quartr",
+      "published": "2026-07-13T04:14:10Z",
+      "source": "Quartr"
+    },
+    {
+      "title": "Investors Heavily Search Kinder Morgan, Inc. (KMI): Here is What You Need to Know - Yahoo Finance Singapore",
+      "published": "2026-07-16T13:00:04Z",
+      "source": "Yahoo Finance Singapore"
+    },
+    {
+      "title": "Bessemer Group Inc. Acquires 1,055,255 Shares of Kinder Morgan, Inc. $KMI - MarketBeat",
+      "published": "2026-07-17T08:16:59Z",
+      "source": "MarketBeat"
+    }
+  ],
+  "notes": []
+}
