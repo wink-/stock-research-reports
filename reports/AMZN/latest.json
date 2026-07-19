@@ -1,0 +1,157 @@
+{
+  "symbol": "AMZN",
+  "generated_at": "2026-07-19T00:05:39.465092Z",
+  "quote": {
+    "symbol": "AMZN",
+    "last": 246.71,
+    "bid": 246.71,
+    "ask": 246.88,
+    "open": 244.46,
+    "high": 250.24,
+    "low": 243.59,
+    "close_prior": 247.23,
+    "change_pct": 0.0,
+    "volume": 43572361,
+    "high_52wk": 278.56,
+    "low_52wk": 196.0,
+    "description": "AMAZON.COM INC"
+  },
+  "fundamentals": {
+    "pe_ratio": 29.88607,
+    "eps": 7.17,
+    "div_yield": null,
+    "div_amount": null,
+    "div_ex_date": null,
+    "shares_out": 10757109436,
+    "market_cap": null,
+    "avg_volume_10d": 41312276.0,
+    "last_earnings": "2026-04-29"
+  },
+  "technical": {
+    "sma_8": 247.86,
+    "sma_20": 242.0565,
+    "sma_50": 252.13299999999998,
+    "sma_200": null,
+    "above_20": true,
+    "above_50": false,
+    "regime_score": 25,
+    "regime_label": "neutral-bullish",
+    "atr_14": 7.550107142857142,
+    "range_position_pct": 66.64105125643587
+  },
+  "levels": [
+    {
+      "price": 200.4492,
+      "kind": "support",
+      "strength": 5
+    },
+    {
+      "price": 209.4975,
+      "kind": "resistance",
+      "strength": 4
+    },
+    {
+      "price": 218.085,
+      "kind": "resistance",
+      "strength": 2
+    },
+    {
+      "price": 226.215,
+      "kind": "support",
+      "strength": 2
+    },
+    {
+      "price": 235.92,
+      "kind": "support",
+      "strength": 2
+    },
+    {
+      "price": 248.3363,
+      "kind": "resistance",
+      "strength": 4
+    },
+    {
+      "price": 255.8433,
+      "kind": "support",
+      "strength": 3
+    },
+    {
+      "price": 276.655,
+      "kind": "resistance",
+      "strength": 2
+    }
+  ],
+  "options": {
+    "expiry": "2026-08-14",
+    "dte": 26,
+    "atm_iv": 43.035,
+    "implied_move": 28.4,
+    "put_oi_cluster": 225.0,
+    "call_oi_cluster": 285.0,
+    "put_wall": 225.0,
+    "call_wall": 285.0
+  },
+  "news": [
+    {
+      "title": "Amazon.com to Webcast Second Quarter 2026 Financial Results Conference Call - Amazon Investor Relations",
+      "published": "2026-07-16T20:10:53Z",
+      "source": "Amazon Investor Relations"
+    },
+    {
+      "title": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets - Yahoo Finance",
+      "published": "2026-07-18T10:01:23Z",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "United Asset Strategies Inc. Grows Stock Holdings in Amazon.com, Inc. $AMZN - MarketBeat",
+      "published": "2026-07-18T10:50:21Z",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Amazon • Robinhood Token - AMZN - Stock Price & News - The Motley Fool",
+      "published": "2026-07-18T13:07:21Z",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "What Amazon.com (AMZN)'s Massive $25 Billion Bond Sale Means For Shareholders - Yahoo Finance",
+      "published": "2026-07-17T00:17:00Z",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Hapanowicz & Associates Financial Services Inc Purchases 4,775 Shares of Amazon.com, Inc. $AMZN - MarketBeat",
+      "published": "2026-07-18T08:53:11Z",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Andy Jassy Says This Could Be a $50 Billion Business for Amazon - The Motley Fool",
+      "published": "2026-07-15T15:00:00Z",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Wells Fargo Lifts PT on Amazon.com (AMZN) Stock - Yahoo Finance",
+      "published": "2026-07-14T15:13:14Z",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Fischer Financial Services Inc. Has $950,000 Stock Holdings in Amazon.com, Inc. $AMZN - MarketBeat",
+      "published": "2026-07-18T08:53:14Z",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN) Aims to Raise $25 billion from Bond Sale - Yahoo Finance",
+      "published": "2026-07-14T21:44:15Z",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Swedbank AB Grows Stake in Amazon.com, Inc. $AMZN - MarketBeat",
+      "published": "2026-07-18T08:53:16Z",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Are Retail-Wholesale Stocks Lagging Amazon.com (AMZN) This Year? - Yahoo Finance UK",
+      "published": "2026-07-17T13:40:48Z",
+      "source": "Yahoo Finance UK"
+    }
+  ],
+  "notes": []
+}
