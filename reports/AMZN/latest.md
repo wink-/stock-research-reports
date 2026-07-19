@@ -1,6 +1,6 @@
 # AMZN — Preliminary Research Report
 
-_Generated: 2026-07-19 00:05 UTC_
+_Generated: 2026-07-19 00:21 UTC_
 
 ## Quote
 
@@ -11,16 +11,20 @@ _Generated: 2026-07-19 00:05 UTC_
 - **Volume:** 43,572,361
 - **Name:** AMAZON.COM INC
 ## Fundamentals
-- **P/E:** 29.9
-- **EPS:** 7.17
-- **Div yield:** n/a
+- **Market cap:** $2.69T | **Beta:** 1.46
+- **Trailing P/E:** 29.6 | **Forward P/E:** n/a (not provided by Schwab) | **PEG:** 1.20
+- **P/B / P/S / P/CF:** 5.07 / 3.00 / 15.42
+- **EPS (TTM):** 8.36 | **EPS growth (TTM):** 29.7% | **Revenue growth (TTM):** 14.2%
+- **Gross / operating / net margin (TTM):** 50.6% / 12.2% / 12.2%
+- **ROE / debt-to-equity:** 24.3% / 49.4%
+- **Div yield:** 0.00%
 - **Shares out:** 10,757,109,436
 - **Last earnings:** 2026-04-29
 
 ## Technical
 
 - **Regime:** Neutral-Bullish (score 25)
-- **SMA(8/20/50/200):** 247.86 / 242.0565 / 252.13299999999998 / n/a
+- **SMA(8/20/50/200):** $247.86 / $242.06 / $252.13 / $234.06
 - **Above SMA20:** yes | **Above SMA50:** no
 - **ATR(14):** 7.55
 - **Range position (20d):** 67% (0=low, 100=high)
@@ -28,13 +32,15 @@ _Generated: 2026-07-19 00:05 UTC_
 ## Support / Resistance
 | Level | Price | Strength |
 |-------|-------|----------|
-| Support | $200.45 | 5 |
-| Resistance | $209.50 | 4 |
-| Resistance | $218.09 | 2 |
-| Support | $226.22 | 2 |
-| Support | $235.92 | 2 |
-| Resistance | $248.34 | 4 |
-| Support | $255.84 | 3 |
+| Support | $178.85 | 1 |
+| Support | $183.85 | 1 |
+| Support | $198.62 | 7 |
+| Support | $209.08 | 9 |
+| Support | $218.72 | 15 |
+| Support | $226.06 | 9 |
+| Resistance | $235.73 | 12 |
+| Resistance | $249.01 | 6 |
+| Support | $256.53 | 4 |
 | Resistance | $276.65 | 2 |
 
 ## Options Snapshot

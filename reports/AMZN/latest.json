@@ -1,6 +1,6 @@
 {
   "symbol": "AMZN",
-  "generated_at": "2026-07-19T00:05:39.465092Z",
+  "generated_at": "2026-07-19T00:21:04.919247Z",
   "quote": {
     "symbol": "AMZN",
     "last": 246.71,
@@ -17,21 +17,35 @@
     "description": "AMAZON.COM INC"
   },
   "fundamentals": {
-    "pe_ratio": 29.88607,
+    "pe_ratio": 29.56794,
+    "pe_forward": null,
+    "peg_ratio": 1.19904,
     "eps": 7.17,
-    "div_yield": null,
-    "div_amount": null,
+    "eps_ttm": 8.36142,
+    "eps_growth_ttm_pct": 29.6564,
+    "revenue_growth_ttm_pct": 14.2182,
+    "div_yield": 0.0,
+    "div_amount": 0.0,
     "div_ex_date": null,
     "shares_out": 10757109436,
-    "market_cap": null,
-    "avg_volume_10d": 41312276.0,
+    "market_cap": 2688094076962.0,
+    "beta": 1.46131,
+    "price_to_book": 5.06826,
+    "price_to_cash_flow": 15.42245,
+    "price_to_sales": 2.99769,
+    "gross_margin_ttm_pct": 50.604,
+    "operating_margin_ttm_pct": 12.2241,
+    "net_margin_ttm_pct": 12.2241,
+    "return_on_equity_pct": 24.2846,
+    "debt_to_equity_pct": 49.3507,
+    "avg_volume_10d": 38364898.0,
     "last_earnings": "2026-04-29"
   },
   "technical": {
     "sma_8": 247.86,
     "sma_20": 242.0565,
     "sma_50": 252.13299999999998,
-    "sma_200": null,
+    "sma_200": 234.0625,
     "above_20": true,
     "above_50": false,
     "regime_score": 25,
@@ -41,39 +55,49 @@
   },
   "levels": [
     {
-      "price": 200.4492,
+      "price": 178.85,
       "kind": "support",
-      "strength": 5
+      "strength": 1
     },
     {
-      "price": 209.4975,
+      "price": 183.85,
+      "kind": "support",
+      "strength": 1
+    },
+    {
+      "price": 198.6221,
+      "kind": "support",
+      "strength": 7
+    },
+    {
+      "price": 209.0762,
+      "kind": "support",
+      "strength": 9
+    },
+    {
+      "price": 218.7187,
+      "kind": "support",
+      "strength": 15
+    },
+    {
+      "price": 226.0622,
+      "kind": "support",
+      "strength": 9
+    },
+    {
+      "price": 235.7317,
       "kind": "resistance",
+      "strength": 12
+    },
+    {
+      "price": 249.0058,
+      "kind": "resistance",
+      "strength": 6
+    },
+    {
+      "price": 256.5325,
+      "kind": "support",
       "strength": 4
-    },
-    {
-      "price": 218.085,
-      "kind": "resistance",
-      "strength": 2
-    },
-    {
-      "price": 226.215,
-      "kind": "support",
-      "strength": 2
-    },
-    {
-      "price": 235.92,
-      "kind": "support",
-      "strength": 2
-    },
-    {
-      "price": 248.3363,
-      "kind": "resistance",
-      "strength": 4
-    },
-    {
-      "price": 255.8433,
-      "kind": "support",
-      "strength": 3
     },
     {
       "price": 276.655,
